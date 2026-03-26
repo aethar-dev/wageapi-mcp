@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "aethar-wageapi": {
+      "url": "https://salary.wageapi.com/api/mcp",
+      "headers": {
+        "X-API-Key": "YOUR_API_KEY"
+      }
+    }
+  }
+}
